@@ -1,0 +1,13 @@
+** Movie Recommendations in BigQuery ML **
+
+BigQuery is Google's fully managed, NoOps, low cost analytics database. 
+With BigQuery we can query terabytes and terabytes of data without having any infrastructure to manage or needing a database administrator. 
+BigQuery uses SQL and can take advantage of the pay-as-you-go model. BigQuery allows us to focus on analyzing data to find meaningful insights.
+BigQueryML is a feature in BigQuery where data analysts can create, train, evaluate, and predict with machine learning models with minimal coding.
+
+
+We are gonna create a recommender systems in action using the MovieLens dataset. 
+This is a dataset of movie reviews released by GroupLens,
+a research lab in the Department of Computer Science and Engineering at the University of Minnesota, 
+through funding by the US National Science Foundation
+
